@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.input{
+    float: left;
+    margin-left: 40%;
+}
+
+footer{
+    float: left;
+    margin-left: 40%;
+    text-align: center;
+    margin-block-end: auto;
+    color: rgba(20, 27, 17, 0.8);
+}
+
+body{
+    background-color: rgb(224, 208, 192);
+    font-size: 30px;
+}
+
+#res{
+    float: left;
+    margin-left: 40%;
+
+}
